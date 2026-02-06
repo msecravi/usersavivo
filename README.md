@@ -14,6 +14,18 @@ cd frontend
 npm install
 npm run dev
 ```
+User List
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/52a3426b-62a3-4035-a224-53af47f66600" />
+
+Added Static user
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/49275af7-6995-4397-8bf0-605e13772c8a" />
+
+Delete user
+<img width="1915" height="1011" alt="image" src="https://github.com/user-attachments/assets/b6f82524-3ab6-4eae-8c59-2b4a10858527" />
+
+Search User
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/e789abea-0bbb-420f-b54a-3935b4794197" />
+
 
 ### Backend
 
